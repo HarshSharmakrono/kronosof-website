@@ -1,30 +1,44 @@
-# Krono Sof.com Premium Website
+# Krono Sof.in — Premium Multi-Page Website
 
-This is a simple HTML/CSS/JavaScript website.
+This version converts the original one-page website into a proper multi-page corporate website.
 
-## Main files
-- `index.html` — full website layout
-- `content.js` — easiest place to edit services, industries, process, case studies, FAQs and contact details
-- `styles.css` — visual design
-- `assets/logo.png` — Krono Sof.com logo
+## Main pages
+- `index.html` — Home
+- `about.html` — About
+- `services.html` — Services overview
+- `industries.html` — Industries overview
+- `case-studies.html` — Case Studies
+- `faq.html` — FAQ
+- `contact.html` — Contact
 
-## Contact
-Phone: +91 85609 00727
-Email: contact@kronosof.com
+## Dedicated service pages
+Located in `services/`:
+- Data Analytics
+- Business Intelligence
+- Business Automation
+- AI Solutions & Chatbots
+- Power BI Dashboards
+- Custom Software Development
+- Web Development
 
-The WhatsApp popup, header button and CTA automatically use the phone number in `content.js`.
+## Dedicated industry pages
+Located in `industries/`:
+- Manufacturing
+- Retail & E-commerce
+- Healthcare
+- Finance
+- Logistics
+- Education
+- Pharmaceuticals
 
-## Edit content
-Open `content.js`. You can add/remove/edit:
-- Services
-- Service bullet points
-- Industries
-- Industry use cases
-- Process steps
-- Case studies
-- FAQs
+## Branding corrections
+The website consistently uses **Krono Sof.in** and `contact@kronosof.in`.
 
-The website does not use React or a complicated framework, so it is easy to maintain.
+## Shared files
+- `styles.css` — visual design and responsive layout
+- `content.js` — business/contact content
+- `site.js` — shared navigation, WhatsApp links and footer year
+- `assets/logo.png` — company logo
 
 ## Hosting
-Upload the files to normal hosting, cPanel/Hostinger, Netlify, Vercel or GitHub Pages.
+The site is plain HTML/CSS/JavaScript and can be uploaded to cPanel/Hostinger, Netlify, Vercel or GitHub Pages.

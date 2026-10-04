@@ -1,10 +1,10 @@
-// KRONO SOF.COM — EDIT THIS FILE TO CHANGE WEBSITE CONTENT
+// KRONO SOF.IN — EDIT THIS FILE TO CHANGE WEBSITE CONTENT
 const SITE = {
-  brand: "Krono Sof.com",
+  brand: "Krono Sof.in",
   phone: "8560900727",
   phoneDisplay: "+91 85609 00727",
-  email: "contact@kronosof.com",
-  whatsappMessage: "Hello Krono Sof.com, I would like to discuss a business solution.",
+  email: "contact@kronosof.in",
+  whatsappMessage: "Hello Krono Sof.in, I would like to discuss a business solution.",
   hero: {
     eyebrow: "DATA ANALYTICS  |  AI  |  AUTOMATION  |  SOFTWARE",
     title: "Turning Data Into Better Decisions.",
@@ -43,7 +43,7 @@ const SITE = {
     ["Automation","Business Workflow Automation","Connected workflows for customer management, follow-ups, reporting and internal notifications."]
   ],
   faqs: [
-    ["What does Krono Sof.com do?","Krono Sof.com provides Data Analytics, Business Intelligence, Business Automation, AI Solutions, Power BI Dashboards, Custom Software Development and Web Development."],
+    ["What does Krono Sof.in do?","Krono Sof.in provides Data Analytics, Business Intelligence, Business Automation, AI Solutions, Power BI Dashboards, Custom Software Development and Web Development."],
     ["Can you automate an existing Excel process?","Yes. We can review your current process and identify opportunities to organize, connect and automate repetitive work."],
     ["Can you create a custom Power BI dashboard?","Yes. Dashboards can be designed around the KPIs and data that matter to your business."],
     ["Can you build software specifically for my business?","Yes. Custom applications can be designed around your workflow, users, data and requirements."],
